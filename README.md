@@ -1,8 +1,3 @@
-Here’s a proposed README.md for your project. Feel free to edit sections (especially “Usage” or “Data Sources”) to match exactly what your notebook does.
-
-⸻
-
-
 # NFL Weekly Defensive Player Stats
 
 This repository contains a Jupyter notebook that compiles, analyzes, and visualizes **weekly defensive player statistics** in the NFL. The goal is to provide an accessible, reproducible pipeline for gathering and interpreting defensive performance metrics across the season.
@@ -121,8 +116,3 @@ If you make improvements (e.g. more robust data fetching, caching, error handlin
 License
 
 This project is released under the MIT License. (Or whichever license you prefer.)
-
-⸻
-
-Feel free to adapt / expand this README as you see fit (add badges, screenshots, usage examples, etc.).
-Would you like me to generate a requirements.txt or insert screenshots / badges into the README?
